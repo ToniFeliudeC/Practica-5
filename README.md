@@ -70,7 +70,7 @@ Posteriormente hemos creado la clase CalculadoraTest en la que definiremos los t
 
 <img src="https://i.gyazo.com/11d9a8a0cb51d7fc46cd1e6d6eb961db.png">
 
-### **7. Realizar pruebas para validar la funcionalidad de los tests y exponer restulados**
+### **7. Realizar pruebas para validar la funcionalidad de los tests y exponer resultados**
 
 Seleccionamos la clase CalculadoraTest y la ejecutamos como JUnit
 
