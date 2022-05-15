@@ -12,7 +12,7 @@ Creamos el repositorio público, sin README incluido ya que este será añadido 
 
 <img src="https://i.gyazo.com/b540f2f7778906c3c489d03224dfe13f.png">
 
-### **2. Crear la interfaz ICalculadora con las operaciones sumar restar y dividir**
+### **2. Crear la interfaz ICalculadora con las operaciones sumar, restar, multiplicar y dividir**
 
 Hemos creado un proyecto llamada "Practica5" en el que existirán la interfaz ICalculadora, la clase Calculadora y la clase CalculadoraTest.
 
